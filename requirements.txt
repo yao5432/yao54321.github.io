@@ -1,0 +1,4 @@
+# 丫丫资讯 - 生成器依赖
+# 核心抓取仅使用 Python 标准库（urllib / json / xml），无需安装任何包即可运行。
+# feedparser 为必需依赖：用于抓取科技媒体 RSS（The Verge / Ars / Wired）与竞技体育源（ESPN / BBC Sport）。
+feedparser>=6.0.0
